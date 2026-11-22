@@ -1,0 +1,11 @@
+# Ignore all JSON files
+*.json
+
+# Ignore JSON files only in the root directory
+/*.json
+
+# Ignore a specific JSON file
+config.json
+
+# Ignore JSON files in a specific folder
+data/*.json
